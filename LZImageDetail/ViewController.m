@@ -28,6 +28,9 @@
     
 //    修改仓库
     
+    
+    //删除部分
+    
     UIScrollView * scrollView = [[UIScrollView alloc] initWithFrame:Screen_Frame];
     [self.view addSubview:scrollView];
     
