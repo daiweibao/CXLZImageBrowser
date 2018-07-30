@@ -26,6 +26,8 @@
 
 - (void)initView {
     
+//    修改仓库
+    
     UIScrollView * scrollView = [[UIScrollView alloc] initWithFrame:Screen_Frame];
     [self.view addSubview:scrollView];
     
