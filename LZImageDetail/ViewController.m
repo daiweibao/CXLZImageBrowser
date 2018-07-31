@@ -22,6 +22,8 @@
     
     [self initView];
     // Do any additional setup after loading the view, typically from a nib.
+    
+    //修改提叫
 }
 
 - (void)initView {
