@@ -23,7 +23,7 @@
     [self initView];
     // Do any additional setup after loading the view, typically from a nib.
     
-    //修改提叫
+    //阅读文件修改
 }
 
 - (void)initView {
